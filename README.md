@@ -17,3 +17,5 @@
 - ⚡ Fun fact: I love soccer and basketball, though I suck at playing either of them.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=v12em5awexdfojs2ooyvanb8t&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=536553&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?pecezon=anuraghazra&layout=compact)
