@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+I'm+Diego+Lopez...;Diegopez+for+my+friends...;pecezon+in+the+fortnite+item+shop.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Diego+Lopez...;Diegopez+for+my+friends...;pecezon+in+the+fortnite+item+shop.)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on building a full-stack web startup with my friends.
 
